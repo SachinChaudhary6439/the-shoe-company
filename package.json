@@ -1,0 +1,14 @@
+{
+  "name": "01_the-shoe-company",
+  "version": "1.0.0",
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+},
+"dependencies": {
+    "@tailwindcss/vite": "^4.1.16",
+    "tailwindcss": "^4.1.16"
+  }
+}
+
